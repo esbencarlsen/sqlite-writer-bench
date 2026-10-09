@@ -1,0 +1,12 @@
+bin/
+obj/
+article/
+results/
+native/*.so
+native/*.dylib
+native/*.dll
+native/*.tar.gz
+.vs/
+.idea/
+*.user
+tmp/
